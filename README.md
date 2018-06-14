@@ -26,3 +26,4 @@ im so *wavy* im so *wavy* ok...ok... that songs __lame__ so ~~scratch that~~
   - all mine
     - kanye west
   
+![Image of flying squirl](https://cdn.shopify.com/s/files/1/2281/5369/products/250229_1_x700.jpg?v=1528122987)
