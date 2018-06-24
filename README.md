@@ -14,8 +14,6 @@ headings
 smaller headings
 -
 
-# Learning github is fun
-
 im so *wavy* im so *wavy* ok...ok... that songs __lame__ so ~~scratch that~~
 
 - top 4 songs
@@ -24,8 +22,8 @@ im so *wavy* im so *wavy* ok...ok... that songs __lame__ so ~~scratch that~~
   - better now
     - post malone
   - young blood
-    - 5 seconds of summer
+    - 5 seconds of summer 
   - all mine
     - kanye west
-
-![Image of flying squirl](https://cdn.shopify.com/s/files/1/2281/5369/products/250229_1_x700.jpg?v=1528122987)
+  
+![Image idk yet](https://cdn-img.essence.com/sites/default/files/styles/pronto_original/public/1478865384/Trump%20Memes-1.jpg?itok=hTB_GpGT)
