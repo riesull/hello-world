@@ -27,3 +27,5 @@ im so *wavy* im so *wavy* ok...ok... that songs __lame__ so ~~scratch that~~
     - kanye west
   
 ![Image idk yet](https://cdn-img.essence.com/sites/default/files/styles/pronto_original/public/1478865384/Trump%20Memes-1.jpg?itok=hTB_GpGT)
+
+__i think im__ *doing this* ~~right~~
