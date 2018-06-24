@@ -4,4 +4,4 @@ this is a test
 ##do
 ###it
 
-[nike](http://1000logos.net/wp-content/uploads/2017/03/Nike-symbol.jpg)
+![nike](http://1000logos.net/wp-content/uploads/2017/03/Nike-symbol.jpg)
