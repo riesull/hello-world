@@ -30,4 +30,4 @@ im so *wavy* im so *wavy* ok...ok... that songs __lame__ so ~~scratch that~~
 
 __i think im__ *doing this* ~~right~~
 
-[README.md](test.md)
+[test.md link](test.md)
